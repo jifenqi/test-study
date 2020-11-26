@@ -1,1 +1,3 @@
-aaa echo bbb echo ccc
+aaa
+ccc
+ddd
